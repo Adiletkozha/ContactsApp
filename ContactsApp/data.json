@@ -1,0 +1,136 @@
+{
+    "states": [
+               {
+               "id": "1AC10A27-69B2-4093-95B2-729FDC13C8D1",
+               "title": "California"
+               },
+               {
+               "id": "2AC10A27-69B2-4093-95B2-729FDC13C8D2",
+               "title": "Nevada"
+               }
+               ],
+    "cities": [
+               {
+               "id": "3AC10A27-69B2-4093-95B2-729FDC13C8D3",
+               "title": "San Francisco",
+               "stateID": "1AC10A27-69B2-4093-95B2-729FDC13C8D1"
+               },
+               {
+               "id": "4AC10A27-69B2-4093-95B2-729FDC13C8D4",
+               "title": "Texas",
+               "stateID": "2AC10A27-69B2-4093-95B2-729FDC13C8D2"
+               },
+               {
+               "id": "5AC10A27-69B2-4093-95B2-729FDC13C8D5",
+               "title": "Los Angeles",
+               "stateID": "1AC10A27-69B2-4093-95B2-729FDC13C8D1"
+               },
+               {
+               "id": "6AC10A27-69B2-4093-95B2-729FDC13C8D6",
+               "title": "Las Vegas",
+               "stateID": "2AC10A27-69B2-4093-95B2-729FDC13C8D2"
+               }
+               ],
+    "contacts": [
+                 {
+                 "id": "11C10A27-69B2-4093-95B2-729FDC13C811",
+                 "firstName": "John",
+                 "lastName": "Smith",
+                 "phoneNumber": "+47234234442",
+                 "streetAddress1": "Alex avenue, Wolves street",
+                 "streetAddress2": "Halloween avenue, Wood street",
+                 "city":"3AC10A27-69B2-4093-95B2-729FDC13C8D3",
+                 "zipCode": "1500000"
+                 },
+                 {
+                 "id": "22C10A27-69B2-4093-95B2-729FDC13C822",
+                 "firstName": "Michle",
+                 "lastName": "Dokkins",
+                 "phoneNumber": "+47234222442",
+                 "streetAddress1": "Alex2 avenue, Wolves street",
+                 "streetAddress2": "Grasp avenue, Wood street",
+                 "city":"4AC10A27-69B2-4093-95B2-729FDC13C8D4",
+                 "zipCode": "2200000"
+                 },
+                 {
+                 "id": "33C10A27-69B2-4093-95B2-729FDC13C833",
+                 "firstName": "Steven",
+                 "lastName": "Lampard",
+                 "phoneNumber": "+47234222442",
+                 "streetAddress1": "Alex2 avenue, Wolves street",
+                 "streetAddress2": "Grasp avenue, Wood street",
+                 "city":"5AC10A27-69B2-4093-95B2-729FDC13C8D5",
+                 "zipCode": "2200000"
+                 },
+                 {
+                 "id": "44C10A27-69B2-4093-95B2-729FDC13C844",
+                 "firstName": "Didier",
+                 "lastName": "Robbins",
+                 "phoneNumber": "+47234222442",
+                 "streetAddress1": "Alex2 avenue, Wolves street",
+                 "streetAddress2": "Grasp avenue, Wood street",
+                 "city":"6AC10A27-69B2-4093-95B2-729FDC13C8D6",
+                 "zipCode": "2200000"
+                 },
+                 {
+                 "id": "55C10A27-69B2-4093-95B2-729FDC13C855",
+                 "firstName": "Patrick",
+                 "lastName": "Ketevoama",
+                 "phoneNumber": "+47234222442",
+                 "streetAddress1": "Alex2 avenue, Wolves street",
+                 "streetAddress2": "Grasp avenue, Wood street",
+                 "city":"4AC10A27-69B2-4093-95B2-729FDC13C8D4",
+                 "zipCode": "2200000"
+                 },
+                 {
+                 "id": "66C10A27-69B2-4093-95B2-729FDC13C866",
+                 "firstName": "Richard",
+                 "lastName": "Muller",
+                 "phoneNumber": "+47234222442",
+                 "streetAddress1": "Alex2 avenue, Wolves street",
+                 "streetAddress2": "Grasp avenue, Wood street",
+                 "city":"3AC10A27-69B2-4093-95B2-729FDC13C8D3",
+                 "zipCode": "2200000"
+                 },
+                 {
+                 "id": "77C10A27-69B2-4093-95B2-729FDC13C877",
+                 "firstName": "Peter",
+                 "lastName": "Lost",
+                 "phoneNumber": "+47234222442",
+                 "streetAddress1": "Alex2 avenue, Wolves street",
+                 "streetAddress2": "Grasp avenue, Wood street",
+                 "city":"5AC10A27-69B2-4093-95B2-729FDC13C8D5",
+                 "zipCode": "2200000"
+                 },
+                 {
+                 "id": "88C10A27-69B2-4093-95B2-729FDC13C888",
+                 "firstName": "Gerd",
+                 "lastName": "Crawford",
+                 "phoneNumber": "+47234222442",
+                 "streetAddress1": "Alex2 avenue, Wolves street",
+                 "streetAddress2": "Grasp avenue, Wood street",
+                 "city":"6AC10A27-69B2-4093-95B2-729FDC13C8D6",
+                 "zipCode": "2200000"
+                 },
+                 {
+                 "id": "99C10A27-69B2-4093-95B2-729FDC13C899",
+                 "firstName": "Sergio",
+                 "lastName": "Ramos",
+                 "phoneNumber": "+47234222442",
+                 "streetAddress1": "Alex2 avenue, Wolves street",
+                 "streetAddress2": "Grasp avenue, Wood street",
+                 "city":"5AC10A27-69B2-4093-95B2-729FDC13C8D5",
+                 "zipCode": "2200000"
+                 },
+                 {
+                 "id": "00C10A27-69B2-4093-95B2-729FDC13C800",
+                 "firstName": "Rodrigo",
+                 "lastName": "Fernandez",
+                 "phoneNumber": "+47234222442",
+                 "streetAddress1": "Alex2 avenue, Wolves street",
+                 "streetAddress2": "Grasp avenue, Wood street",
+                 "city":"3AC10A27-69B2-4093-95B2-729FDC13C8D3",
+                 "zipCode": "2200000"
+                 }
+                 ]
+}
